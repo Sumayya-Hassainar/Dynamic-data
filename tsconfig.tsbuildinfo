@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/app/layout.tsx","./src/components/csvimportexport.tsx","./src/components/datatable.tsx","./src/components/editablecell.tsx","./src/components/managecolumsmodal.tsx","./src/components/themetoggle.tsx","./src/slices/tableslice.ts","./src/store/persist.tsx","./src/store/store.ts","./src/types/index.ts"],"version":"5.9.3"}
